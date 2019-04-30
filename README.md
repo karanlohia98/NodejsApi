@@ -1,4 +1,7 @@
+For this project,you will be required to install mysql and node.js modules.
+
 Created a small REST API and a web page. 
+
 Problem Statement:
 1. Create a Web form which will take inputs from user. Below are the form fields.
 a. User Name
