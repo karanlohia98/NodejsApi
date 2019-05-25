@@ -1,5 +1,6 @@
-For this project,you will be required to install mysql and node.js modules.
 
+Note:
+Please use your own Database for this by creating a MYsql database.
 Created a small REST API and a web page. 
 
 Problem Statement:
@@ -21,10 +22,5 @@ emailId varchar(50) primary key,
 phoneNo varchar(10) Not Null,
 password varchar(50) Not Null,
 dateTime Timestamp
-b. Host Name: db-intern.ciupl0p5utwk.us-east-1.rds.amazonaws.com
-c. Port: 3306
-d. User Name: dummyUser
-e. Password: dummyUser01
-f. Db Name: db_intern
-g. Table Name: userData
+
 • Note*: You should use Node js for API creation.
