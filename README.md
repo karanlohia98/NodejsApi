@@ -9,7 +9,7 @@ a. User Name
 b. Password
 c. Email Id
 d. Phone Number
-• Note*: Use input field validation.
+* Note: Use input field validation.
 2. Create a REST API which will take request from the HTML form and insert the data into MySQL
 database along with the current Date and Time.
 3. Your API should insert the record if it doesn‘t exist, else update the previous record.
@@ -23,4 +23,4 @@ phoneNo varchar(10) Not Null,
 password varchar(50) Not Null,
 dateTime Timestamp
 
-• Note*: You should use Node js for API creation.
+* Note: You should use Node js for API creation.
